@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Anita
 
-<!--
-**anita309/anita309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 🌱 Currently learning new technologies and improving my development skills
+* 💻 Passionate about software development and problem-solving
+* 🚀 Interested in building useful and innovative projects
+* 🤝 Open to collaboration on interesting projects
+* 📚 Always eager to learn and grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Programming Languages: Java, Python, C++, JavaScript
+* Web Development: HTML, CSS, React
+* Databases: MySQL, MongoDB
+* Tools: Git, GitHub, VS Code
+
+## Projects
+
+* 🔭 Project 1 – Brief description
+* 🔭 Project 2 – Brief description
+* 🔭 Project 3 – Brief description
+
+## Connect With Me
+
+* 📫 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: your-linkedin-profile
+* 🌐 Portfolio: your-portfolio-website
+
+## Fun Fact
+
+⚡ I enjoy learning new technologies and turning ideas into real-world applications.
